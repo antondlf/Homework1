@@ -25,3 +25,5 @@ class HelloWorld(ScriptBase):
 
     def main(self):
         self.log('Hello World!!!')
+        
+print('Hello', 'world', 'from', 'Nick')
